@@ -27,8 +27,8 @@ export const BIO: Array<Bio> = [
 export const CONTACT: Array<Contact> = [
     {
         icon: '/icons/github.svg',
-        text: '@tranbaolam26902',
-        link: 'https://github.com/tranbaolam26902'
+        text: '@campbellricing',
+        link: 'https://github.com/campbellricing'
     },
     {
         icon: '/icons/linkedin.svg',
