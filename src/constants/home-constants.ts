@@ -5,7 +5,7 @@ export const TITLE = 'Homepage';
 export const NAME = 'Tran "Campbell" Bao Lam';
 export const MESSAGE = 'Hi, welcome to my space on the internet!';
 export const ABOUT_ME =
-    'I am a Software Engineer with a passion for creating high-quality digital products. With over two years of experience specializing in front-end web development, I primarily work with React to build dynamic, user-centric applications. I am committed to delivering seamless and visually engaging user experiences, consistently prioritizing both functionality and intuitive design. My focus on UI/UX ensures that the products I develop are not only technically robust but also accessible and enjoyable for users.';
+    'I am a Software Engineer who loves making computers feel like home. When I am not writing code, you will probably find me deep in a Hyprland ricing session on Arch Linux, tweaking config files, refining keybindings, and chasing that pixel-perfect desktop setup. That same obsession with customization and polish carries over into my work: with over two years of front-end experience building React applications, I care deeply about the small details that make an interface feel intuitive, responsive, and genuinely enjoyable to use.';
 export const BIO: Array<Bio> = [
     {
         time: '2002',
@@ -20,8 +20,12 @@ export const BIO: Array<Bio> = [
         info: "Completed the Engineer's Program in Software Engineering at Dalat University"
     },
     {
-        time: '2024 ~ Present',
-        info: 'Working as a Front-end Web Developer at DLS - VN'
+        time: '2024 ~ 2026',
+        info: 'Worked as a Front-end Engineer at DLS - VN'
+    },
+    {
+        time: '2026 ~ Present',
+        info: 'Working as a Front-end Engineer at Finepro Automation'
     }
 ];
 export const CONTACT: Array<Contact> = [
